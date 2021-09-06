@@ -1,0 +1,15 @@
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\TPL\bin\Debug\TPL.exe.config
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\TPL\bin\Debug\TPL.exe
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\TPL\bin\Debug\TPL.pdb
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\TPL\obj\Debug\TPL.csprojAssemblyReference.cache
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\TPL\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\TPL\obj\Debug\App.g.cs
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\TPL\obj\Debug\TPL_MarkupCompile.cache
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\TPL\obj\Debug\TPL_MarkupCompile.lref
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\TPL\obj\Debug\MainWindow.baml
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\TPL\obj\Debug\TPL.g.resources
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\TPL\obj\Debug\TPL.Properties.Resources.resources
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\TPL\obj\Debug\TPL.csproj.GenerateResource.cache
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\TPL\obj\Debug\TPL.csproj.CoreCompileInputs.cache
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\TPL\obj\Debug\TPL.exe
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\TPL\obj\Debug\TPL.pdb

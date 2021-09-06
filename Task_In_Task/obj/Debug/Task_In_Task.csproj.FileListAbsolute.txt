@@ -1,0 +1,7 @@
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\Task_In_Task\bin\Debug\Task_In_Task.exe.config
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\Task_In_Task\bin\Debug\Task_In_Task.exe
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\Task_In_Task\bin\Debug\Task_In_Task.pdb
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\Task_In_Task\obj\Debug\Task_In_Task.csprojAssemblyReference.cache
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\Task_In_Task\obj\Debug\Task_In_Task.csproj.CoreCompileInputs.cache
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\Task_In_Task\obj\Debug\Task_In_Task.exe
+C:\Users\Vlad_Tluhovskiy\source\repos\Task_In_Task\Task_In_Task\obj\Debug\Task_In_Task.pdb
